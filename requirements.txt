@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+streamlit
+openai  
+sentence-transformers
+ipykernel  
+langchain_community
+pypdf2
+requests    
+pypdf
+langchain_huggingface
+faiss-cpu
+langchain_chroma
